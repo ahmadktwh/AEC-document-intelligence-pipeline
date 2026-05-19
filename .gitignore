@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases & local sqlite
+*.db
+*.sqlite3
+
+# Environment & credentials
+.env
+.env.*
+env.json
+service-account.json
+credentials.json
+*.pem
+*.key
+
+# Large raw data & caches
+cache/
+processed/
+raw/
+raw_filings/
+diagnosis/
+scratch/
+live test proof/
+data/
+
+# Temporary run logs and debug outputs
+*_logs.txt
+*.log
+verifytags.txt
+sol.txt
+req.txt
+req2.txt
+wdm_*.txt
+pinecone_*_results.txt
+Cardozo_High_School_Finishes_pinecone_vector_data_readable.txt
+
+# Local large PDFs (except proof/)
+2013-09-13 - LU TC - Tender.pdf
+KCC UWEX PD Remodel_Bidset Specs - 2019.05.17.pdf
+
+# Drafts & Intermediate Audit Reports
+MASTER_EVOLUTION_PLAN.md
+fixes.md
+sec_rag_pipeline_audit_report.md
+system_audit_report.md
+infrastructure_audit_report.md
+walkthrough.md
+
+# OS generated files
+.DS_Store
+Thumbs.db

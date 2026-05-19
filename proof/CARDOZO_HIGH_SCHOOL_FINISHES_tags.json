@@ -1,0 +1,2043 @@
+{
+  "tags": [
+    "APC",
+    "APC-2",
+    "APC-3",
+    "BRICK",
+    "CMU",
+    "CONC",
+    "CPT-1",
+    "CPT-2",
+    "CPT-3",
+    "CPT-4",
+    "CPT-5",
+    "CPT-6",
+    "CT-1",
+    "CT-2",
+    "CT-3",
+    "CT-4",
+    "CT-5",
+    "CT-6",
+    "CT-7",
+    "CT-8",
+    "CT-9",
+    "CT-10",
+    "CT-11",
+    "CT-12",
+    "GCMU",
+    "GT-1",
+    "GT-2",
+    "GT-3",
+    "GT-4",
+    "GT-5",
+    "GT-6",
+    "GT-7",
+    "GT-8",
+    "MARBLE",
+    "P-1",
+    "P-E1",
+    "P-2",
+    "P-3",
+    "P-4",
+    "P-5",
+    "P-6",
+    "P-7",
+    "P-8",
+    "P-9",
+    "P-10",
+    "P-11",
+    "P-12",
+    "P-13",
+    "P-14",
+    "P-15",
+    "P-16",
+    "P-17",
+    "P-18",
+    "P-19",
+    "PT-1",
+    "PT-2",
+    "RB-1",
+    "RB-2",
+    "RB-3",
+    "RES-1",
+    "RT-1",
+    "RT-2",
+    "SLATE",
+    "SPORT-1",
+    "STN-1",
+    "STN-2",
+    "TER-1",
+    "TERRAZZO",
+    "TERT-1",
+    "TERT-2",
+    "VCT-1",
+    "VRB",
+    "VSF-1",
+    "VSF-2",
+    "VSF-3",
+    "VT-1",
+    "VT-2",
+    "VT-3",
+    "WD-A",
+    "WD-B",
+    "WD-R",
+    "WD-1",
+    "WD-2",
+    "WDM"
+  ],
+  "confidence": {
+    "APC": 0.75,
+    "APC-2": 0.95,
+    "APC-3": 0.95,
+    "BRICK": 0.7,
+    "CMU": 0.7,
+    "CONC": 0.75,
+    "CPT-1": 0.95,
+    "CPT-2": 0.95,
+    "CPT-3": 0.95,
+    "CPT-4": 0.95,
+    "CPT-5": 0.95,
+    "CPT-6": 0.95,
+    "CT-1": 1.0,
+    "CT-2": 1.0,
+    "CT-3": 1.0,
+    "CT-4": 0.95,
+    "CT-5": 0.95,
+    "CT-6": 0.95,
+    "CT-7": 0.95,
+    "CT-8": 0.95,
+    "CT-9": 0.95,
+    "CT-10": 1.0,
+    "CT-11": 1.0,
+    "CT-12": 0.95,
+    "GCMU": 0.7,
+    "GT-1": 0.95,
+    "GT-2": 0.95,
+    "GT-3": 0.95,
+    "GT-4": 0.95,
+    "GT-5": 0.95,
+    "GT-6": 0.95,
+    "GT-7": 0.95,
+    "GT-8": 0.95,
+    "MARBLE": 0.75,
+    "P-1": 1.0,
+    "P-E1": 0.95,
+    "P-2": 0.95,
+    "P-3": 0.95,
+    "P-4": 0.95,
+    "P-5": 0.95,
+    "P-6": 0.95,
+    "P-7": 0.95,
+    "P-8": 0.95,
+    "P-9": 0.95,
+    "P-10": 0.95,
+    "P-11": 0.95,
+    "P-12": 0.95,
+    "P-13": 0.95,
+    "P-14": 0.95,
+    "P-15": 1.0,
+    "P-16": 0.95,
+    "P-17": 0.95,
+    "P-18": 0.95,
+    "P-19": 0.95,
+    "PT-1": 1.0,
+    "PT-2": 1.0,
+    "RB-1": 0.95,
+    "RB-2": 0.95,
+    "RB-3": 0.95,
+    "RES-1": 0.95,
+    "RT-1": 0.95,
+    "RT-2": 0.95,
+    "SLATE": 0.95,
+    "SPORT-1": 0.95,
+    "STN-1": 0.95,
+    "STN-2": 0.95,
+    "TER-1": 0.95,
+    "TERRAZZO": 1.0,
+    "TERT-1": 0.95,
+    "TERT-2": 0.95,
+    "VCT-1": 0.95,
+    "VRB": 0.75,
+    "VSF-1": 0.95,
+    "VSF-2": 0.95,
+    "VSF-3": 0.95,
+    "VT-1": 0.95,
+    "VT-2": 0.95,
+    "VT-3": 0.95,
+    "WD-A": 0.95,
+    "WD-B": 0.95,
+    "WD-R": 0.95,
+    "WD-1": 0.95,
+    "WD-2": 0.95,
+    "WDM": 0.75
+  },
+  "page_map": {
+    "APC": [
+      5
+    ],
+    "APC-2": [
+      5
+    ],
+    "APC-3": [
+      5
+    ],
+    "BRICK": [
+      3
+    ],
+    "CMU": [
+      3
+    ],
+    "CONC": [
+      1
+    ],
+    "CPT-1": [
+      3
+    ],
+    "CPT-2": [
+      3
+    ],
+    "CPT-3": [
+      3
+    ],
+    "CPT-4": [
+      3
+    ],
+    "CPT-5": [
+      3
+    ],
+    "CPT-6": [
+      3
+    ],
+    "CT-1": [
+      1,
+      2
+    ],
+    "CT-2": [
+      1,
+      2
+    ],
+    "CT-3": [
+      1,
+      2
+    ],
+    "CT-4": [
+      1
+    ],
+    "CT-5": [
+      1
+    ],
+    "CT-6": [
+      1
+    ],
+    "CT-7": [
+      1
+    ],
+    "CT-8": [
+      1
+    ],
+    "CT-9": [
+      1
+    ],
+    "CT-10": [
+      1,
+      2
+    ],
+    "CT-11": [
+      1,
+      2
+    ],
+    "CT-12": [
+      1
+    ],
+    "GCMU": [
+      3
+    ],
+    "GT-1": [
+      2
+    ],
+    "GT-2": [
+      2
+    ],
+    "GT-3": [
+      2
+    ],
+    "GT-4": [
+      2
+    ],
+    "GT-5": [
+      2
+    ],
+    "GT-6": [
+      2
+    ],
+    "GT-7": [
+      2
+    ],
+    "GT-8": [
+      2
+    ],
+    "MARBLE": [
+      2
+    ],
+    "P-1": [
+      4
+    ],
+    "P-E1": [
+      3
+    ],
+    "P-2": [
+      4
+    ],
+    "P-3": [
+      4
+    ],
+    "P-4": [
+      4
+    ],
+    "P-5": [
+      4
+    ],
+    "P-6": [
+      4
+    ],
+    "P-7": [
+      4
+    ],
+    "P-8": [
+      4
+    ],
+    "P-9": [
+      4
+    ],
+    "P-10": [
+      4
+    ],
+    "P-11": [
+      4
+    ],
+    "P-12": [
+      4
+    ],
+    "P-13": [
+      4
+    ],
+    "P-14": [
+      4
+    ],
+    "P-15": [
+      4,
+      5
+    ],
+    "P-16": [
+      4
+    ],
+    "P-17": [
+      4
+    ],
+    "P-18": [
+      4
+    ],
+    "P-19": [
+      4
+    ],
+    "PT-1": [
+      1,
+      2
+    ],
+    "PT-2": [
+      2
+    ],
+    "RB-1": [
+      4
+    ],
+    "RB-2": [
+      4
+    ],
+    "RB-3": [
+      4
+    ],
+    "RES-1": [
+      3
+    ],
+    "RT-1": [
+      3
+    ],
+    "RT-2": [
+      3
+    ],
+    "SLATE": [
+      1
+    ],
+    "SPORT-1": [
+      3
+    ],
+    "STN-1": [
+      4
+    ],
+    "STN-2": [
+      4
+    ],
+    "TER-1": [
+      3
+    ],
+    "TERRAZZO": [
+      2,
+      3
+    ],
+    "TERT-1": [
+      2
+    ],
+    "TERT-2": [
+      2
+    ],
+    "VCT-1": [
+      3
+    ],
+    "VRB": [
+      4
+    ],
+    "VSF-1": [
+      2
+    ],
+    "VSF-2": [
+      2
+    ],
+    "VSF-3": [
+      2
+    ],
+    "VT-1": [
+      2
+    ],
+    "VT-2": [
+      2
+    ],
+    "VT-3": [
+      2
+    ],
+    "WD-A": [
+      2
+    ],
+    "WD-B": [
+      2
+    ],
+    "WD-R": [
+      2
+    ],
+    "WD-1": [
+      4
+    ],
+    "WD-2": [
+      4
+    ],
+    "WDM": [
+      5
+    ]
+  },
+  "page_map_with_buffer": {
+    "APC": [
+      4,
+      5,
+      6
+    ],
+    "APC-2": [
+      4,
+      5,
+      6
+    ],
+    "APC-3": [
+      4,
+      5,
+      6
+    ],
+    "BRICK": [
+      2,
+      3,
+      4
+    ],
+    "CMU": [
+      2,
+      3,
+      4
+    ],
+    "CONC": [
+      1,
+      2
+    ],
+    "CPT-1": [
+      2,
+      3,
+      4
+    ],
+    "CPT-2": [
+      2,
+      3,
+      4
+    ],
+    "CPT-3": [
+      2,
+      3,
+      4
+    ],
+    "CPT-4": [
+      2,
+      3,
+      4
+    ],
+    "CPT-5": [
+      2,
+      3,
+      4
+    ],
+    "CPT-6": [
+      2,
+      3,
+      4
+    ],
+    "CT-1": [
+      1,
+      2,
+      3
+    ],
+    "CT-2": [
+      1,
+      2,
+      3
+    ],
+    "CT-3": [
+      1,
+      2,
+      3
+    ],
+    "CT-4": [
+      1,
+      2
+    ],
+    "CT-5": [
+      1,
+      2
+    ],
+    "CT-6": [
+      1,
+      2
+    ],
+    "CT-7": [
+      1,
+      2
+    ],
+    "CT-8": [
+      1,
+      2
+    ],
+    "CT-9": [
+      1,
+      2
+    ],
+    "CT-10": [
+      1,
+      2,
+      3
+    ],
+    "CT-11": [
+      1,
+      2,
+      3
+    ],
+    "CT-12": [
+      1,
+      2
+    ],
+    "GCMU": [
+      2,
+      3,
+      4
+    ],
+    "GT-1": [
+      1,
+      2,
+      3
+    ],
+    "GT-2": [
+      1,
+      2,
+      3
+    ],
+    "GT-3": [
+      1,
+      2,
+      3
+    ],
+    "GT-4": [
+      1,
+      2,
+      3
+    ],
+    "GT-5": [
+      1,
+      2,
+      3
+    ],
+    "GT-6": [
+      1,
+      2,
+      3
+    ],
+    "GT-7": [
+      1,
+      2,
+      3
+    ],
+    "GT-8": [
+      1,
+      2,
+      3
+    ],
+    "MARBLE": [
+      1,
+      2,
+      3
+    ],
+    "P-1": [
+      3,
+      4,
+      5
+    ],
+    "P-E1": [
+      2,
+      3,
+      4
+    ],
+    "P-2": [
+      3,
+      4,
+      5
+    ],
+    "P-3": [
+      3,
+      4,
+      5
+    ],
+    "P-4": [
+      3,
+      4,
+      5
+    ],
+    "P-5": [
+      3,
+      4,
+      5
+    ],
+    "P-6": [
+      3,
+      4,
+      5
+    ],
+    "P-7": [
+      3,
+      4,
+      5
+    ],
+    "P-8": [
+      3,
+      4,
+      5
+    ],
+    "P-9": [
+      3,
+      4,
+      5
+    ],
+    "P-10": [
+      3,
+      4,
+      5
+    ],
+    "P-11": [
+      3,
+      4,
+      5
+    ],
+    "P-12": [
+      3,
+      4,
+      5
+    ],
+    "P-13": [
+      3,
+      4,
+      5
+    ],
+    "P-14": [
+      3,
+      4,
+      5
+    ],
+    "P-15": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "P-16": [
+      3,
+      4,
+      5
+    ],
+    "P-17": [
+      3,
+      4,
+      5
+    ],
+    "P-18": [
+      3,
+      4,
+      5
+    ],
+    "P-19": [
+      3,
+      4,
+      5
+    ],
+    "PT-1": [
+      1,
+      2,
+      3
+    ],
+    "PT-2": [
+      1,
+      2,
+      3
+    ],
+    "RB-1": [
+      3,
+      4,
+      5
+    ],
+    "RB-2": [
+      3,
+      4,
+      5
+    ],
+    "RB-3": [
+      3,
+      4,
+      5
+    ],
+    "RES-1": [
+      2,
+      3,
+      4
+    ],
+    "RT-1": [
+      2,
+      3,
+      4
+    ],
+    "RT-2": [
+      2,
+      3,
+      4
+    ],
+    "SLATE": [
+      1,
+      2
+    ],
+    "SPORT-1": [
+      2,
+      3,
+      4
+    ],
+    "STN-1": [
+      3,
+      4,
+      5
+    ],
+    "STN-2": [
+      3,
+      4,
+      5
+    ],
+    "TER-1": [
+      2,
+      3,
+      4
+    ],
+    "TERRAZZO": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "TERT-1": [
+      1,
+      2,
+      3
+    ],
+    "TERT-2": [
+      1,
+      2,
+      3
+    ],
+    "VCT-1": [
+      2,
+      3,
+      4
+    ],
+    "VRB": [
+      3,
+      4,
+      5
+    ],
+    "VSF-1": [
+      1,
+      2,
+      3
+    ],
+    "VSF-2": [
+      1,
+      2,
+      3
+    ],
+    "VSF-3": [
+      1,
+      2,
+      3
+    ],
+    "VT-1": [
+      1,
+      2,
+      3
+    ],
+    "VT-2": [
+      1,
+      2,
+      3
+    ],
+    "VT-3": [
+      1,
+      2,
+      3
+    ],
+    "WD-A": [
+      1,
+      2,
+      3
+    ],
+    "WD-B": [
+      1,
+      2,
+      3
+    ],
+    "WD-R": [
+      1,
+      2,
+      3
+    ],
+    "WD-1": [
+      3,
+      4,
+      5
+    ],
+    "WD-2": [
+      3,
+      4,
+      5
+    ],
+    "WDM": [
+      4,
+      5,
+      6
+    ]
+  },
+  "found_by": {
+    "APC": [
+      "text_table"
+    ],
+    "APC-2": [
+      "text_table"
+    ],
+    "APC-3": [
+      "text_table"
+    ],
+    "BRICK": [
+      "text_table"
+    ],
+    "CMU": [
+      "text_table"
+    ],
+    "CONC": [
+      "text_table"
+    ],
+    "CPT-1": [
+      "text_table"
+    ],
+    "CPT-2": [
+      "text_table"
+    ],
+    "CPT-3": [
+      "text_table"
+    ],
+    "CPT-4": [
+      "text_table"
+    ],
+    "CPT-5": [
+      "text_table"
+    ],
+    "CPT-6": [
+      "text_table"
+    ],
+    "CT-1": [
+      "text_table"
+    ],
+    "CT-2": [
+      "text_table"
+    ],
+    "CT-3": [
+      "text_table"
+    ],
+    "CT-4": [
+      "text_table"
+    ],
+    "CT-5": [
+      "text_table"
+    ],
+    "CT-6": [
+      "text_table"
+    ],
+    "CT-7": [
+      "text_table"
+    ],
+    "CT-8": [
+      "text_table"
+    ],
+    "CT-9": [
+      "text_table"
+    ],
+    "CT-10": [
+      "text_table"
+    ],
+    "CT-11": [
+      "text_table"
+    ],
+    "CT-12": [
+      "text_table"
+    ],
+    "GCMU": [
+      "text_table"
+    ],
+    "GT-1": [
+      "text_table"
+    ],
+    "GT-2": [
+      "text_table"
+    ],
+    "GT-3": [
+      "text_table"
+    ],
+    "GT-4": [
+      "text_table"
+    ],
+    "GT-5": [
+      "text_table"
+    ],
+    "GT-6": [
+      "text_table"
+    ],
+    "GT-7": [
+      "text_table"
+    ],
+    "GT-8": [
+      "text_table"
+    ],
+    "MARBLE": [
+      "text_table"
+    ],
+    "P-1": [
+      "text_table"
+    ],
+    "P-E1": [
+      "text_table"
+    ],
+    "P-2": [
+      "text_table"
+    ],
+    "P-3": [
+      "text_table"
+    ],
+    "P-4": [
+      "text_table"
+    ],
+    "P-5": [
+      "text_table"
+    ],
+    "P-6": [
+      "text_table"
+    ],
+    "P-7": [
+      "text_table"
+    ],
+    "P-8": [
+      "text_table"
+    ],
+    "P-9": [
+      "text_table"
+    ],
+    "P-10": [
+      "text_table"
+    ],
+    "P-11": [
+      "text_table"
+    ],
+    "P-12": [
+      "text_table"
+    ],
+    "P-13": [
+      "text_table"
+    ],
+    "P-14": [
+      "text_table"
+    ],
+    "P-15": [
+      "text_table"
+    ],
+    "P-16": [
+      "text_table"
+    ],
+    "P-17": [
+      "text_table"
+    ],
+    "P-18": [
+      "text_table"
+    ],
+    "P-19": [
+      "text_table"
+    ],
+    "PT-1": [
+      "text_table"
+    ],
+    "PT-2": [
+      "text_table"
+    ],
+    "RB-1": [
+      "text_table"
+    ],
+    "RB-2": [
+      "text_table"
+    ],
+    "RB-3": [
+      "text_table"
+    ],
+    "RES-1": [
+      "text_table"
+    ],
+    "RT-1": [
+      "text_table"
+    ],
+    "RT-2": [
+      "text_table"
+    ],
+    "SLATE": [
+      "text_table"
+    ],
+    "SPORT-1": [
+      "text_table"
+    ],
+    "STN-1": [
+      "text_table"
+    ],
+    "STN-2": [
+      "text_table"
+    ],
+    "TER-1": [
+      "text_table"
+    ],
+    "TERRAZZO": [
+      "text_table"
+    ],
+    "TERT-1": [
+      "text_table"
+    ],
+    "TERT-2": [
+      "text_table"
+    ],
+    "VCT-1": [
+      "text_table"
+    ],
+    "VRB": [
+      "text_table"
+    ],
+    "VSF-1": [
+      "text_table"
+    ],
+    "VSF-2": [
+      "text_table"
+    ],
+    "VSF-3": [
+      "text_table"
+    ],
+    "VT-1": [
+      "text_table"
+    ],
+    "VT-2": [
+      "text_table"
+    ],
+    "VT-3": [
+      "text_table"
+    ],
+    "WD-A": [
+      "text_table"
+    ],
+    "WD-B": [
+      "text_table"
+    ],
+    "WD-R": [
+      "text_table"
+    ],
+    "WD-1": [
+      "text_table"
+    ],
+    "WD-2": [
+      "text_table"
+    ],
+    "WDM": [
+      "text_table"
+    ]
+  },
+  "metadata": {
+    "APC": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "APC-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "APC-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "BRICK": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CMU": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CONC": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-4": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-5": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CPT-6": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-4": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-5": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-6": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-7": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-8": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-9": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-10": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-11": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "CT-12": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GCMU": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-4": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-5": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-6": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-7": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "GT-8": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "MARBLE": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-E1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-4": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-5": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-6": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-7": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-8": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-9": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-10": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-11": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-12": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-13": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-14": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-15": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-16": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-17": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-18": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "P-19": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "PT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "PT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RB-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RB-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RB-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RES-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "RT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "SLATE": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "SPORT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "STN-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "STN-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "TER-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "TERRAZZO": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "TERT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "TERT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VCT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VRB": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VSF-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VSF-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VSF-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VT-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VT-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "VT-3": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WD-A": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WD-B": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WD-R": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WD-1": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WD-2": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    },
+    "WDM": {
+      "manufacturer": "N/S",
+      "product_model": "N/S",
+      "color": "N/S",
+      "dimensions": "N/S",
+      "surface_location": "N/S",
+      "installation_remarks": "N/S",
+      "rooms": "N/S",
+      "csi_section": "N/S",
+      "material_description": "N/S"
+    }
+  },
+  "stats": {
+    "total_pages": 5,
+    "candidate_pages": 5,
+    "page_types": {
+      "text": 5
+    },
+    "raw_candidates": 123,
+    "after_merge": 110,
+    "after_verification": 84,
+    "elapsed_seconds": 75.86,
+    "dry_run": false
+  }
+}
